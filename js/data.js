@@ -13,17 +13,17 @@ const account = [
     {month: 12, expense: 200 }
 ];
 const months = [
-    {name: 'Spalis'},
     {name: 'Sausis'},
-    {name: 'Kovas'},
-    {name: 'Liepa'},
     {name: 'Vasaris'},
-    {name: 'Geguze'},
-    {name: 'Rugsejis'},
+    {name: 'Kovas'},
     {name: 'Balandis'},
+    {name: 'Geguze'},
     {name: 'Birzelis'},
-    {name: 'Lapkritis'},
+    {name: 'Liepa'},
     {name: 'Rugpjutis'},
+    {name: 'Rugsejis'},
+    {name: 'Spalis'},
+    {name: 'Lapkritis'},
     {name: 'Gruodis'},
 ]
 export { account, months };
