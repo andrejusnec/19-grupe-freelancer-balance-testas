@@ -19,7 +19,7 @@
 - buvo mažiausiai išlaidų, bet ne mažiau nulio;
 - buvo daugiausiai išlaidų;
 
-7. Pakeisti html > title į "Rimanto metai", atitinkamai pakeičiant savo vardu;
+7. Pakeisti html > title į "Andrejaus metai", atitinkamai pakeičiant savo vardu;
 
 8. Sukurti pull-request į originalų projektą, su atliktais commit'ais.
 
